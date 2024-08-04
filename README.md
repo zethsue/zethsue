@@ -9,7 +9,7 @@
 
 <pre>
     💼 Student Developer • Full-stack Developer
-    💻 Arco • Hyprland • JS • C++ • Golang
+    💻 Arch • Windows • Hyprland • JS • C++ • Golang
     📖 Software maker • Graphic Designer
     🎮 Design • Code • Anime • Music 
     🐾 Cat • Hamster • Matcha • Tiramisu
