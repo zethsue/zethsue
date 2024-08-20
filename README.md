@@ -8,13 +8,10 @@
 [![](https://img.shields.io/badge/reddit-cf3d11)](https://www.reddit.com/user/zthsu/)
 
 <pre>
-<<<<<<< HEAD
     💼 Student Developer • Full-stack Developer
     💻 Arch • Windows • Hyprland • JS • C++ • Golang
-=======
     💼 Student Developer • Full-stack Developer • Anime Lover
     💻 Arco • Hyprland • JS • C++ • Golang
->>>>>>> 6897354 (docs(README): modify personal information)
     📖 Software maker • Graphic Designer
     🎮 Design • Code • Anime • Music 
     🐾 Cat • Hamster • Matcha • Tiramisu
