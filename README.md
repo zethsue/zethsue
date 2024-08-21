@@ -8,8 +8,6 @@
 [![](https://img.shields.io/badge/reddit-cf3d11)](https://www.reddit.com/user/zthsu/)
 
 <pre>
-    💼 Student Developer • Full-stack Developer
-    💻 Arch • Windows • Hyprland • JS • C++ • Golang
     💼 Student Developer • Full-stack Developer • Anime Lover
     💻 Arco • Hyprland • JS • C++ • Golang
     📖 Software maker • Graphic Designer
